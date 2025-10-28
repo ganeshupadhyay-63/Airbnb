@@ -7,7 +7,7 @@ import { listingDataContext } from "../Context/ListingContext";
 import ViewCard from "../pages/ViewCard"
 
 
-import logo from "../assets/logo.png";
+import logo from "../assets/Logo.png";
 import { FaSearch } from "react-icons/fa";
 import { RxHamburgerMenu } from "react-icons/rx";
 import { CgProfile } from "react-icons/cg";
