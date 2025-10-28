@@ -7,7 +7,7 @@ import ListingPage1 from './pages/ListingPage1';
 import ListingPage2 from './pages/ListingPage2';
 import ListingPage3 from './pages/ListingPage3';
 import MyListing from './pages/MyListing';
-import ViewCard from './pages/viewCard'
+import ViewCard from './pages/ViewCard'
 import MyBooking from './pages/MyBooking';
 import Booked from './pages/Booked';
 
