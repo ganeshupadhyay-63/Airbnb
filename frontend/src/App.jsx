@@ -12,7 +12,7 @@ import MyBooking from './pages/MyBooking';
 import Booked from './pages/Booked';
 
 import Home from './pages/Home';
-import Login from './pages/login';
+import Login from './pages/Login';
 import Signup from './pages/Signup';
 import UserContextProvider, { UserDataContext } from './Context/UserContext';
 
