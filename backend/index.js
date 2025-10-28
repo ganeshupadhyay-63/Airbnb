@@ -17,7 +17,7 @@ app.use(express.json());
 app.use(cookieParser()); 
 
 app.use(cors({
-  origin: "http://localhost:5173",
+  origin: "https://airbnb-front-ro3g.onrender.com",
   credentials: true
 }));
 
