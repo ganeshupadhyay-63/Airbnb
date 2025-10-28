@@ -3,7 +3,7 @@ import { createRoot } from 'react-dom/client';
 import { BrowserRouter } from 'react-router-dom'; 
 import './index.css';
 import App from './App.jsx';
-import AuthContextProvider from './Context/authContext.jsx';
+import AuthContextProvider from './Context/AuthContext.jsx';
   
 import UserContextProvider from './Context/UserContext.jsx';
 import ListingContext from './Context/ListingContext.jsx';
